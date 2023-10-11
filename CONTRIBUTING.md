@@ -16,7 +16,7 @@
 
 Open terminal
 ```
-git clone https://github.com/TechHack3/Hacktoberfest2023.git
+git clone https://github.com/chaitanyarai19/Hacktoberfest2023.git
 ```
 
 - Navigate to project directory.
@@ -54,17 +54,17 @@ git push origin my-new-branch
 
 <br>
 
-## Add your name in contributors List
+## Add your name in contributors' List
 
 `contributors/contributorsList.js`
 
 ## Avoid Conflicts {Syncing your fork}
 
-An easy way to avoid conflicts is to add an 'upstream' for your git repo, as other PR's may be merged while you're working on your branch/fork.   
+An easy way to avoid conflicts is to add an 'upstream' for your git repo, as other PRs may be merged while you're working on your branch/fork.   
 
 
 ```
-git remote add upstream https://github.com/TechHack3/Hacktoberfest2023
+git remote add upstream https://github.com/chaitanyarai19/Hacktoberfest2023
 ```
 
 
