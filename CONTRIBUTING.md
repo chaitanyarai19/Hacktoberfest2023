@@ -3,7 +3,7 @@
 - Do NOT add any DSA Codes
 - Do NOT remove other content.
 - Styling/code can be pretty, ugly or stupid, big or small as long as it works
-- Add your name to the contributors list file
+- Add your name to the contributor's list file
 - Try to keep pull requests small to minimize merge conflicts
 
 ## Mandatory Step :
@@ -29,7 +29,7 @@ cd Hacktoberfest2023
 - Create a new Branch
 
 ```
-git checkout -b my-new-branch
+git checkout -b new-branch
 ```
 
 - To Add your File to our repo
