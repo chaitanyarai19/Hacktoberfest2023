@@ -3,11 +3,11 @@
 - Do NOT add any DSA Codes
 - Do NOT remove other content.
 - Styling/code can be pretty, ugly or stupid, big or small as long as it works
-- Add your name to the contributorsList file
+- Add your name to the contributors list file
 - Try to keep pull requests small to minimize merge conflicts
 
 ## Mandatory Step :
-- You have to star this repository
+- You have to Star this repository
 
 ## Getting Started 🤩🤗:
 
@@ -16,10 +16,10 @@
 
 Open terminal
 ```
-git clone https://github.com/chaitanyarai19/Hacktoberfest2023.git
+git clone https://github.com/chaitanyarai19/Hacktoberfest2023
 ```
 
-- Navigate to project directory.
+- Navigate to the project directory.
   
 ```
 cd Hacktoberfest2023
@@ -54,7 +54,7 @@ git push origin my-new-branch
 
 <br>
 
-## Add your name in contributors' List
+## Add your name to the contributors' List
 
 `contributors/contributorsList.js`
 
